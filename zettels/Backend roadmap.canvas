@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"11116f65b5136458","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"[[Internet]]"},
+		{"id":"0797c566b16e8661","x":-128,"y":-192,"width":250,"height":52,"type":"text","text":"Backend"},
+		{"id":"4046f4a615293da7","x":220,"y":-95,"width":250,"height":50,"type":"text","text":"DNS e como funciona"},
+		{"id":"56be07289e8bada7","x":220,"y":-25,"width":250,"height":50,"type":"text","text":"Sistema de Nomes de Domínio"},
+		{"id":"ca382509ebe82037","x":220,"y":55,"width":250,"height":50,"type":"text","text":"O que é Hosting"},
+		{"id":"c3962fc03ec1965f","x":-135,"y":165,"width":257,"height":60,"type":"text","text":"Conhecimento básico em Frontend"},
+		{"id":"c5edd97cb0b6059c","x":-500,"y":60,"width":250,"height":50,"type":"text","text":"Navegadores e como eles funcionam"},
+		{"id":"bed494a82763d3e9","x":-500,"y":-20,"width":250,"height":50,"type":"text","text":"O que é HTTP"},
+		{"id":"cc2d9ae779600ba6","x":-500,"y":140,"width":250,"height":50,"type":"text","text":"HTML"},
+		{"id":"ed0f1c8afb7e2e17","x":-440,"y":-252,"width":250,"height":60,"type":"text","text":"tags: #roadmap #programação "},
+		{"id":"73169d95de7e218c","x":220,"y":125,"width":250,"height":50,"type":"text","text":"CSS"},
+		{"id":"6587f56a99beaa0d","x":220,"y":200,"width":250,"height":50,"type":"text","text":"JavaScript"},
+		{"id":"3bf4950297562757","x":-500,"y":-100,"width":250,"height":50,"type":"text","text":"[[Como a Internet funciona.]]"}
+	],
+	"edges":[
+		{"id":"09dcc3b99c05d705","fromNode":"11116f65b5136458","fromSide":"bottom","toNode":"c3962fc03ec1965f","toSide":"top"},
+		{"id":"f90647eab45e62e5","fromNode":"0797c566b16e8661","fromSide":"bottom","toNode":"11116f65b5136458","toSide":"top"},
+		{"id":"88488dc9c6bbd558","fromNode":"11116f65b5136458","fromSide":"left","toNode":"bed494a82763d3e9","toSide":"right"},
+		{"id":"73f20fd78bc60090","fromNode":"11116f65b5136458","fromSide":"right","toNode":"4046f4a615293da7","toSide":"left"},
+		{"id":"a9e01fb401b8fbe2","fromNode":"11116f65b5136458","fromSide":"right","toNode":"56be07289e8bada7","toSide":"left"},
+		{"id":"af3d6ce81a427021","fromNode":"11116f65b5136458","fromSide":"right","toNode":"ca382509ebe82037","toSide":"left"},
+		{"id":"b208cf5344ed4af6","fromNode":"c3962fc03ec1965f","fromSide":"left","toNode":"cc2d9ae779600ba6","toSide":"right"},
+		{"id":"4fb430a084b8974f","fromNode":"c3962fc03ec1965f","fromSide":"right","toNode":"73169d95de7e218c","toSide":"left"},
+		{"id":"9277902684e1d6ba","fromNode":"c3962fc03ec1965f","fromSide":"right","toNode":"6587f56a99beaa0d","toSide":"left"},
+		{"id":"a25a6286485035aa","fromNode":"11116f65b5136458","fromSide":"left","toNode":"c5edd97cb0b6059c","toSide":"right"},
+		{"id":"2f102cc5291f5612","fromNode":"11116f65b5136458","fromSide":"left","toNode":"3bf4950297562757","toSide":"right"}
+	]
+}

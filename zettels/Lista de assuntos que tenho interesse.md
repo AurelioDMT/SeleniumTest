@@ -1,0 +1,32 @@
+tags: #produtividade
+status: #zettel/fleeting
+
+- Programação
+	- OS 
+		- Linux
+	- Python
+	- SQL
+	- Git
+- Produtividade
+	- Leitura
+	- Escritura
+- Estudos
+	- Matemática
+	- Filosofia
+	- Geografia
+	- Trivium
+		- Lógica
+		- Gramática
+		- Retórica
+	- Quadrivium
+		- Aritmética
+		- Música
+		- Geometria
+		- Astronomia
+- Meditação
+	- Yoga
+- Jogos
+- Saúde
+	- Exercícios físicos
+- Finanças
+- Design

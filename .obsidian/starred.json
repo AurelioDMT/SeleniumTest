@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Por onde vou basear meus estudos",
+      "path": "zettels/Por onde vou basear meus estudos.md"
+    },
+    {
+      "type": "file",
+      "title": "Resumindo o livro Como Ler Livros por capítulo",
+      "path": "zettels/Resumindo o livro Como Ler Livros por capítulo.md"
+    },
+    {
+      "type": "file",
+      "title": "Lista de assuntos que tenho interesse",
+      "path": "zettels/Lista de assuntos que tenho interesse.md"
+    },
+    {
+      "type": "file",
+      "title": "Backend roadmap",
+      "path": "zettels/Backend roadmap.canvas"
+    }
+  ]
+}
