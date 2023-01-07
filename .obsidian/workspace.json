@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diario/2023-01-06.md",
+                "file": "diario/2023-01-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Introdução a Redes (Fabio Akita).md",
+                "file": "diario/2023-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Introdução a Redes (Fabio Akita).md",
+                "file": "diario/2023-01-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Introdução a Redes (Fabio Akita).md"
+                "file": "diario/2023-01-07.md"
               }
             }
           }
@@ -232,17 +232,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18aee7fd35dae99c",
+  "active": "5ed90761ceffd752",
   "lastOpenFiles": [
+    "diario/2023-01-06.md",
+    "zettels/Introdução a Redes (Fabio Akita).md",
     "templates/daily_template.md",
     "templates/mini_template.md",
     "templates/note_template.md",
-    "diario/2023-01-06.md",
     "zettels/Debug.md",
     "zettels/Por onde vou basear meus estudos.md",
     "diario/2023-01-05.md",
     "zettels/Backend roadmap.canvas",
-    "zettels/Lista de assuntos que tenho interesse.md",
-    "zettels/Criando uma base de dados simples com Docker e DBeaver.md"
+    "zettels/Lista de assuntos que tenho interesse.md"
   ]
 }
