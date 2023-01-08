@@ -6,6 +6,7 @@
       {
         "id": "27e6b7fb5524db87",
         "type": "tabs",
+        "dimension": 51.365015166835185,
         "children": [
           {
             "id": "d93bfa433615ea7d",
@@ -84,19 +85,50 @@
             }
           },
           {
-            "id": "5ed90761ceffd752",
+            "id": "d7ab4b3e5cfb7614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diario/2023-01-07.md",
+                "file": "zettels/Funções em python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51009f3d5073944a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettels/Dicionários em python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
+      },
+      {
+        "id": "ae6fbb4204fff19f",
+        "type": "tabs",
+        "dimension": 48.634984833164815,
+        "children": [
+          {
+            "id": "65a73307ad671740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettels/Sets em python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diario/2023-01-07.md",
+                "file": "zettels/Sets em python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diario/2023-01-07.md",
+                "file": "zettels/Sets em python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diario/2023-01-07.md"
+                "file": "zettels/Sets em python.md"
               }
             }
           }
@@ -232,17 +264,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ed90761ceffd752",
+  "active": "65a73307ad671740",
   "lastOpenFiles": [
+    "zettels/Dicionários em python.md",
+    "zettels/Shallow copy.md",
+    "zettels/Sets em python.md",
+    "zettels/Funções em python.md",
+    "zettels/Debug.md",
+    "diario/2023-01-07.md",
     "diario/2023-01-06.md",
     "zettels/Introdução a Redes (Fabio Akita).md",
     "templates/daily_template.md",
-    "templates/mini_template.md",
-    "templates/note_template.md",
-    "zettels/Debug.md",
-    "zettels/Por onde vou basear meus estudos.md",
-    "diario/2023-01-05.md",
-    "zettels/Backend roadmap.canvas",
-    "zettels/Lista de assuntos que tenho interesse.md"
+    "templates/mini_template.md"
   ]
 }
