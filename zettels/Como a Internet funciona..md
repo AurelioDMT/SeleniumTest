@@ -2,7 +2,7 @@ tags: #web
 status: #zettel/fleeting
 
 # Resumo do que eu entendi
-- Basicamente a ==internet== é uma ==rede composta por vários computadores, seguindo um protocolo específico==.
+- Basicamente a ==internet== é uma ==rede **centralizada** composta por vários computadores, seguindo um protocolo específico==.
 
 - Composta por três tipos de computadores:
 	- Computador normal.

@@ -56,7 +56,7 @@ print(soma(2, 3))
 ```
 
 ## Args
-- `*args`, é um **parâmetro** que desempacota qualquer valor recebido, responsável por receber vários valores e empacotar em uma tupla.
+- `*args`, é um **parâmetro** não nomeado, que desempacota qualquer valor recebido, responsável por receber vários valores e empacotar em uma tupla.
 
 ### Exemplo: função que soma todos os argumentos passados
 ```Python
@@ -68,6 +68,91 @@ def soma(*args):
 	return total
 ```
 
+## kwargs
+- É basicamente igual ao args, só que envez de uma tupla, é um dicionário. Com **parâmetros** nomeados.
+
+### Exemplo de código args e kwargs
+```Python
+def mostrar_argumentos_nomeados(*args, **kwargs):
+    print('NÃO NOMEADOS:', args)
+
+    print()
+    print('NOMEADOS:')
+    for chave, valor in kwargs.items():
+        print(f'Chave: {chave}, Valor: {valor}')
+
+
+arg_nomeado = {
+    "arg1": 1,
+    "arg2": 2,
+    "arg3": 3,
+    "arg4": 4,
+}
+arg_nao_nomeado = (1, 2, 3, 4)
+
+mostrar_argumentos_nomeados(*arg_nao_nomeado, **arg_nomeado)
+-----------------------------------------------------------------
+NÃO NOMEADOS: (1, 2, 3, 4)
+
+NOMEADOS:
+Chave: arg1, Valor: 1
+Chave: arg2, Valor: 2
+Chave: arg3, Valor: 3
+Chave: arg4, Valor: 4
+```
+- Nesse código, usamos um asterisco para desempacotar uma tupla, e dois asteriscos para desempacotar um dicionário.
+
+### Exemplo de parâmetros nomeados
+```Python
+def mostrar_argumentos_nomeados(*args, **kwargs):
+    for k, v in kwargs.items():
+        print(k, v)
+
+
+mostrar_argumentos_nomeados(
+    nome='Luiz',
+    sobrenome='Henrique',
+    idade=21,
+)
+```
+
+## Função lambda
+- A função lambda é como qualquer outra função em python, o diferencial dela é, você pode escrever ela em somente uma linha.
+
+### Exemplo de uso da função lambda
+```Python
+lista = [
+	{'nome': 'Luiz', 'sobrenome': 'miranda'},
+	{'nome': 'Maria', 'sobrenome': 'Oliveira'},
+	{'nome': 'Daniel', 'sobrenome': 'Silva'},
+	{'nome': 'Eduardo', 'sobrenome': 'Moreira'},
+	{'nome': 'Aline', 'sobrenome': 'Souza'},
+]
+
+def exibir(lista):
+	for item in lista:
+		print(item)
+	print()
+
+
+l1 = sorted(lista, key=lambda item: item['nome'])
+l2 = sorted(lista, key=lambda item: item['sobrenome'])
+
+exibir(l1)
+exibir(l2)
+--------------------------------------------------------------
+{'nome': 'Aline', 'sobrenome': 'Souza'}
+{'nome': 'Daniel', 'sobrenome': 'Silva'}
+{'nome': 'Eduardo', 'sobrenome': 'Moreira'}
+{'nome': 'Luiz', 'sobrenome': 'miranda'}
+{'nome': 'Maria', 'sobrenome': 'Oliveira'}
+
+{'nome': 'Eduardo', 'sobrenome': 'Moreira'}
+{'nome': 'Maria', 'sobrenome': 'Oliveira'}
+{'nome': 'Daniel', 'sobrenome': 'Silva'}
+{'nome': 'Aline', 'sobrenome': 'Souza'}
+{'nome': 'Luiz', 'sobrenome': 'miranda'}
+```
 
 ## Escopo de função
 - Basicamente, todas as varíaveis que você declarar em um função, pertence somente a ela mesma.

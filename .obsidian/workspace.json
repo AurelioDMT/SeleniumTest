@@ -6,129 +6,57 @@
       {
         "id": "27e6b7fb5524db87",
         "type": "tabs",
-        "dimension": 51.365015166835185,
         "children": [
-          {
-            "id": "d93bfa433615ea7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Introdução a Redes (Fabio Akita).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "13262db20bf3539e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Criando uma base de dados simples com Docker e DBeaver.md",
+                "file": "diario/2023-01-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92b0259461e9c26f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "zettels/Backend roadmap.canvas",
-                "viewState": {
-                  "x": -15,
-                  "y": 101.61737331954498,
-                  "zoom": -0.14197238134758372,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "f612ce1fd9b45140",
+            "id": "33672e1c34a32c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diario/2023-01-05.md",
+                "file": "zettels/List comprehension em python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27f315c3bdea0b74",
+            "id": "88182e49692455bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Por onde vou basear meus estudos.md",
+                "file": "zettels/Iteráveis e iteradores em python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e9113134e3e0bf49",
+            "id": "9e77fa1b090db9d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Debug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7ab4b3e5cfb7614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Funções em python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51009f3d5073944a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Dicionários em python.md",
+                "file": "zettels/Tratando exceções em python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "ae6fbb4204fff19f",
-        "type": "tabs",
-        "dimension": 48.634984833164815,
-        "children": [
-          {
-            "id": "65a73307ad671740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Sets em python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,9 +85,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fibona",
-                "matchingCase": true,
-                "explainSearch": true,
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -174,11 +102,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "20a61bb452eb6f85",
@@ -213,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Sets em python.md",
+                "file": "zettels/Tratando exceções em python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Sets em python.md",
+                "file": "zettels/Tratando exceções em python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,12 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Sets em python.md"
+                "file": "zettels/Tratando exceções em python.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -264,17 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65a73307ad671740",
+  "active": "9e77fa1b090db9d7",
   "lastOpenFiles": [
-    "zettels/Dicionários em python.md",
-    "zettels/Shallow copy.md",
-    "zettels/Sets em python.md",
-    "zettels/Funções em python.md",
-    "zettels/Debug.md",
-    "diario/2023-01-07.md",
-    "diario/2023-01-06.md",
-    "zettels/Introdução a Redes (Fabio Akita).md",
-    "templates/daily_template.md",
-    "templates/mini_template.md"
+    "zettels/Iteráveis e iteradores em python.md",
+    "zettels/Tratando exceções em python.md",
+    "diario/2023-01-11.md",
+    "zettels/Deep web.md",
+    "zettels/ahmia.fi.md",
+    "diario/2023-01-12.md",
+    "README.md",
+    "Untitled.md",
+    "links nada ave.md",
+    "zettels/List comprehension em python.md"
   ]
 }

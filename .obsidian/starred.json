@@ -19,6 +19,11 @@
       "type": "file",
       "title": "Backend roadmap",
       "path": "zettels/Backend roadmap.canvas"
+    },
+    {
+      "type": "file",
+      "title": "Metas da programação",
+      "path": "zettels/Metas da programação.md"
     }
   ]
 }
