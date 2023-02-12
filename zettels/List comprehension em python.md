@@ -53,6 +53,8 @@ lista = [
 
 - É feito antes do for
 
+- O mapeamento também é usado em uma função em python, [[Função map em python]].
+
 ## Exemplo de mapeamento
 ```Python
 produtos = [
@@ -99,5 +101,6 @@ adicionar_5_porcento_se_maior_que_vinte = [
 # Ver também
 - Dict e set comprehension
 - Proximo ([[Iteráveis e iteradores em python]])
+
 # References
 - [Curso de Python do Luiz Otávio Miranda](https://www.udemy.com/user/luiz-otavio-miranda)

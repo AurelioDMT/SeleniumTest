@@ -1,5 +1,6 @@
 tags: #programação 
-status: #zettel/fleeting
+
+- Para listar as variáveis de ambiente no windows, usando o powershell, basta utilizar o comando: `dir env:`.
 
 - Uma variável de ambiente é um **nome-valor** que é armazenado em um sistema operacional e pode ser usado por um sistema ou aplicativo para configurar seu comportamento. As variáveis de ambiente são geralmente usadas para armazenar configurações que são aplicáveis ao sistema inteiro ou a um usuário específico, como caminhos para executáveis ou localização de arquivos.
 

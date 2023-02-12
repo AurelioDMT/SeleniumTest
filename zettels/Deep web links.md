@@ -20,3 +20,8 @@ status: #zettel/fleeting
 # Blogs
 - The Hidden Wiki - http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/Main_Page
 - OnionDir - https://oniodtu6xudkiblcijrwwkduu2tdle3rav7nlszrjhrxpjtkg4brmgqd.onion
+
+# Reddit
+link: https://www.reddit.com/r/deepweb/
+
+- 

@@ -4,19 +4,21 @@ status: #zettel/fleeting
 # Iterável (iterable)
 - É o item que é iterado, ou seja, ele vai distribuir os valores.
 - Tem a responsabilidade de somente deter os valores.
+- Itens iteráveis em Python incluem sequências (como listas, tuplas e strings) e coleções (como dicionários e conjuntos).
 ```Python
 iterable = ['eu', 'tenho', '__iter__']
 ```
 
 # Iteradores (iterator)
-- É o que itera, ou seja, ele vai receber um valor por vez.
-- Tem a responsabilidade de, **somente** saber qual o próximo valor.
+- É o objeto que itera, ou seja, ele vai receber um valor por vez.
+- Tem a responsabilidade de **somente**, saber qual o próximo valor.
+- Utiliza-se a função iter ou  o próprio "for".
 ```Python
 iterator = iter(iterable)
 ```
 
 # Generator
-- O generator é um iterator.
+- Todo generator é um iterator, mas nem todo iterator é um generator.
 - É uma função que trava.
 - Bem mais leve que uma lista.
 
@@ -67,6 +69,19 @@ for n in gen:
     print(n)
 ```
 - Ira retornar de 0 - 999.
+
+### Como checar se é um generator
+- Precisamos importar a classe "GeneratorType" de types.
+- `from types import GeneratorType`.
+- Em seguida, printamos usando a função "isinstance()", que vai retornar um valor booleano, se é ou não um generator.
+```Python
+from types import GeneratorType
+
+generator = (x for x in range(10))
+print(isinstance(generator, GeneratorType))
+--------------------------------------------
+True
+```
 
 ### Debugando
 #### 1 frame

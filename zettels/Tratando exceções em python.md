@@ -33,7 +33,7 @@ except TypeError as error:
 unsupported operand type(s) for /: 'NoneType' and 'int'
 ```
 
-## Hierarquia das exções
+## Hierarquia das exceções
 BaseException
  ├── BaseExceptionGroup
  ├── GeneratorExit
@@ -103,4 +103,4 @@ BaseException
            └── UserWarning
 
 # References
-- 
+- [Curso de Python do Luiz Otávio Miranda](https://www.udemy.com/user/luiz-otavio-miranda)

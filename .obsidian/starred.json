@@ -24,6 +24,11 @@
       "type": "file",
       "title": "Metas da programação",
       "path": "zettels/Metas da programação.md"
+    },
+    {
+      "type": "file",
+      "title": "Mini dicas do curso de python",
+      "path": "zettels/Dicas do curso de python.md"
     }
   ]
 }

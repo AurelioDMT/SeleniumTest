@@ -4,59 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "27e6b7fb5524db87",
+        "id": "5741d0acdfc0ab68",
         "type": "tabs",
         "children": [
           {
-            "id": "13262db20bf3539e",
+            "id": "b55cf9f52f647193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diario/2023-01-11.md",
+                "file": "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33672e1c34a32c08",
+            "id": "f9b404993fd539a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/List comprehension em python.md",
+                "file": "zettels/Estudo matemática.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88182e49692455bf",
+            "id": "9d73709533a3b7b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Iteráveis e iteradores em python.md",
+                "file": "zettels/Juros simples e compostos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e77fa1b090db9d7",
+            "id": "679f391232624397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Tratando exceções em python.md",
+                "file": "zettels/Porcentagem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bad6908eed769fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettels/Escalas numéricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1177a845496efc48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettels/Regra de três.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f926809f3c7d2c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettels/Razão e Proporção.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +102,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a28ece1dcae6c772",
+        "id": "d57cfd66ac53ff3e",
         "type": "tabs",
         "children": [
           {
@@ -103,11 +139,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "20a61bb452eb6f85",
@@ -142,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Tratando exceções em python.md",
+                "file": "zettels/Juros simples e compostos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Tratando exceções em python.md",
+                "file": "zettels/Juros simples e compostos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,12 +208,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Tratando exceções em python.md"
+                "file": "zettels/Juros simples e compostos.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,17 +230,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e77fa1b090db9d7",
+  "active": "9d73709533a3b7b4",
   "lastOpenFiles": [
-    "zettels/Iteráveis e iteradores em python.md",
-    "zettels/Tratando exceções em python.md",
-    "diario/2023-01-11.md",
-    "zettels/Deep web.md",
-    "zettels/ahmia.fi.md",
-    "diario/2023-01-12.md",
-    "README.md",
-    "Untitled.md",
-    "links nada ave.md",
-    "zettels/List comprehension em python.md"
+    "zettels/Razão e Proporção.md",
+    "diario/2023-02-12.md",
+    "zettels/Juros simples e compostos.md",
+    "zettels/Estudo matemática.md",
+    "zettels/Porcentagem.md",
+    "zettels/Escalas numéricas.md",
+    "zettels/Regra de três.md",
+    "diario/2023-02-08.md",
+    "diario/2023-02-10.md",
+    "diario/2023-02-09.md"
   ]
 }

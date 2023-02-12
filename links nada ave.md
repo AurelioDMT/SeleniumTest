@@ -15,3 +15,24 @@ https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)#
 https://pt.wikipedia.org/wiki/Linguagem_de_programação#História
 
 https://pt.wikipedia.org/wiki/Paradigma_de_programação
+
+https://www.youtube.com/watch?v=qtBM1g7HttE
+
+dunder methods - https://mathspp.com/blog/pydonts/dunder-methods#:~:text=What%20are%20dunder%20methods%3F,__%20or%20__add__%20.
+
+# Folder schema
+ ├── 📂	
+ ├── 📂	
+ ├── 📂	
+ ├── 📂	
+ └── 📂	
+      ├── 📂	
+      │    ├── 📂	
+      │    ├── 📂	
+      │    └── 📂	
+
+# Habilitando powershell para executar o venv python
+https://youtu.be/Qd8JT0bnJGs?t=1263
+
+>We keep on comin' while we runnin' for yo' jewels  
+Steady gunnin, keep on bustin at them fools, you know the rules

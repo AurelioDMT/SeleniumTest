@@ -1,4 +1,4 @@
-tags: #daily
+tags: #daily 
 created: {{date}} {{time}}
 
 - 
