@@ -1,0 +1,100 @@
+tags: #estudos/matemática 
+
+- Definição
+> Equação irracional é uma equação em que há incógnita sob um ou mais radicais.
+
+# Forma de resolução
+- Para resolvermos uma equação irracional, devemos transformá-la em outra equação equivalente, eliminando os radicais. Para isso, basta elevar os dois lados da igualdade a potências convenientes. Ao final, sempre devemos testar as raízes encontradas na equação original, pois talvez tenhamos raízes que não satisfaçam a igualdade.
+
+- Exemplo 1
+- $\sqrt{2x - 3} = 5$
+	- $(\sqrt{2x - 3})^2 = (5)^2$
+	- $2x - 3 = 25$
+	- $2x = 28$
+	- $x = 14$
+	- $\sqrt{2*14 - 3} = 5$
+	- $\sqrt{25} = 5$
+	- $5 = 5$
+	- S = {14}
+- Exemplo 2
+- $\sqrt{x^2 + 5x + 1} + 1 = 2x$
+	- $\sqrt{x^2 + 5x + 1} = 2x - 1$
+	- $(\sqrt{x^2 + 5x + 1})^2 = (2x - 1)^2$
+	- $x^2 +5x +1 = 4x^2 - 4x + 1$
+	- $3x^2 - 9x = 0$ (/3)
+	- $x^2 -3x = 0$
+	- $x(x - 3) = 0$
+	- $x = 0$
+		- $\sqrt{0^2 + 5*0 + 1} + 1 = 2*0$
+		- $1 + 1 = 0$
+		- $2 = 0$ (Falso)
+	- $x = 3$
+		- $\sqrt{3^2 + 5*3 + 1} + 1 = 2*3$
+		- $\sqrt{9 + 15 + 1} + 1 = 6$
+		- $5 + 1 = 6$ (Verdadeiro)
+	- S = {3}
+- Exemplo 3
+- $\sqrt{2x + 1} + \sqrt{2x - 4} = 5$
+	- $\sqrt{2x + 1} = 5 - \sqrt{2x - 4}$
+	- $(\sqrt{2x + 1})^2 = (5 - \sqrt{2x - 4})^2$
+	- $2x + 1 = 25 - 10 \sqrt{2x - 4} + 2x - 4$
+	- $1 = 21 - 10 \sqrt{2x-4}$
+	- $10 \sqrt{2x-4} = 20$
+	- $\sqrt{2x-4} = 2$
+	- $(\sqrt{2x-4})^2 = (2)^2$
+	- $2x - 4 = 4$
+	- $2x = 8$
+	- $x = 4$
+	- $\sqrt{2*4 + 1} + \sqrt{2*4 - 4} = 5$
+	- $3 + 2 = 5$ (Verdadeiro)
+	- S = {4}
+- Exemplo 4
+- $\sqrt{2x-3} + \sqrt{4x+1} = 4$
+	- $\sqrt{2x-3} = 4 - \sqrt{4x+1}$
+	-  $(\sqrt{2x-3})^2 = (4 - \sqrt{4x+1})^2$
+	- $2x-3 = 16 - 8\sqrt{4x+1} + 4x+1$
+	- $8\sqrt{4x+1} = 20 + 2x$ (/2)
+	- $4\sqrt{4x+1} = 10 + x$
+	- $(4\sqrt{4x+1})^2 = (10 + x)^2$
+	- $16(4x+1) = 100 + 20x + x^2$
+	- $64x + 16 = 100 + 2x + x^2$
+	- $x^2 - 44x + 84 = 0$
+	- Soma: $2+42=44$
+	- Produto: $2*42=84$
+	- $x_1=2$ ou $x_2 = 42$
+		- $\sqrt{2*2-3} + \sqrt{4*2+1} = 4$
+		- $1 + 3 = 4$ (Verdadeiro)
+	- S = {2}
+- Exemplo 5
+- $\sqrt[3]{2x+1} = 3$
+	- $(\sqrt[3]{2x+1})^3 = (3)^3$
+	- $2x + 1 = 27$
+	- $2x = 26$
+	- $x = 13$
+	- $\sqrt[3]{2*3+1} = 3$
+	- $\sqrt[3]{27} = 3$ (Verdadeiro)
+	- S = {13}
+- Exemplo 6
+- $\sqrt[3]{4x^2 + 9x + 1} = x + 1$
+	- $(\sqrt[3]{4x^2 + 9x + 1})^3 = (x + 1)^3$
+	- $4x^2 + 9x + 1 = (x+1)^2(x+1)$
+	- $4x^2 + 9x + 1 = (x^2+2x + 1)(x+1)$
+	- $4x^2 + 9x + 1 = x^3 + x^2 + 2x^2 + 2x + x + 1$
+	- $x^3 - x^2 - 6x = 0$
+	- $x(x^2 - x - 6) = 0$
+	- $x_1 = 0$ ou $x^2 - x - 6 = 0$
+		- $x_2 = 3$
+		- $x_3 = -2$
+	- $x_1$
+		- $\sqrt[3]{4*0^2 + 9*0 + 1} = 0 + 1$
+		- 1 = 1 (Verdadeiro)
+	- $x_2$
+		- $\sqrt[3]{4*3^2 + 9*3 + 1} = 3 + 1$
+		- $\sqrt[3]{64} = 4$
+		- $4 = 4$ (Verdadeiro)
+	- $x_3$
+		- $\sqrt[3]{4(-2)^2 + 9(-2) + 1} = -2 + 1$
+		- $\sqrt[3]{16-18+1} = -1$
+		- $-1 = -1$ (Verdadeiro)
+	- S = {-2, 0, 3}
+

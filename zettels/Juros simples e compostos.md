@@ -41,3 +41,40 @@ M = 1000 + 300 => M = R$ 1.300,00
 	- $t = 1000$ dias
 
 # Juros compostos
+- Exemplo
+![[Pasted image 20230212182403.png]]
+C = R$ 1.000,00
+t = 3 anos
+i = 10% a.a
+
+1º ano: $1000 + \frac{10}{100}*1000 = 1100$
+2º ano: $1100 + \frac{10}{100}*1100 = 1210$
+3º ano: $1210 + \frac{10}{100}*1210 = 1331$
+M = R$ 1.331,00
+
+## Fórmula
+| | Início | Juros | Montante |
+| - | - | - | - |
+| 1º Período | C | iC | $1C + iC = C(1+i)$ |
+| 2º Período | $C(1+i)$ | $i*C(1+i)$ | $1*C(1+i) + i*C(1+i)$; $C(1+i)(1+i) = C(1+i)^2$ |
+| 3º Período | $1*C(1+i)^2$ | $i*C(1+i)^2$ | $C(1+i)^2(1+i)^1 = C(1+i)^3$ |
+- Logo
+$$M = C(1+i)^t$$
+- Exemplo
+- Determine os juros compostos gerados por uma aplicação de R$ 4.000,00 por um período de um ano e meio, à taxa de 8% ao mês. dado: $(1,08)^{18} = 3,99$.
+	- j = ? 
+	- C = 4000
+	- i = 8% a.m
+	- t = 18 meses
+	- $M = C(1+i)^t$
+	- $M = 4000(1+0,08)^{18}$
+	- $M = 4000*(1,08)^{18}$
+	- $M = 4000*3,99$
+	- $M = 4*1000*3,99$
+	- $M = 4*3990$
+	- $M = 15960$
+	- $J = M-C$
+	- $15960 - 4000 = 11960$
+- Apliquei um capital de R$ 10.000,00 durante 3 anos, a juro composto. A taxa de juro no primeiro ano foi de 10%, no segundo, 12% e no terceiro, 8%. Qual foi o montante acumulado nos 3 anos?
+	- $[(10000*1,1)*1,12]*1,08$
+	- $10000*\frac{11}{10}*\frac{112}{100}*\frac{108}{100} = 13.305,60$

@@ -1,0 +1,53 @@
+tags: #estudos/economia 
+trabalho sobre: [[Trabalho conhecimentos bancários]]
+
+# Curso
+1. [[Sistema Financeiro Nacional (SFN)]]
+2. [[Concelho Monetário Nacional (CMN)]]
+3. [[Banco Central do Brasil (BCB)]]
+4. [[Sistema de Pagamentos Brasileiro (SPB)]]
+5. [[Superintendência de seguros privados (SUSEP)]]
+6. [[Superintendência nacional de previdência complementar (PREVIC)]]
+7. [[Exemplos de operações no mercado interbancário]]
+8. [[Comitê de Política Monetária (COPOM)]]
+9. [[Comissão de Valores Mobiliários (CVM)]]
+10. [[Conselho de Recursos do Sistema Financeiro Nacional (CRSFN)]]
+11. [[Bancos Múltiplos (BC, BI, BD, SAM, SCI, SCFI)]]
+12. [[Corretora de Títulos e Valores Mobiliários (CTVM) e Distribuidora (DTVM)]]
+13. [[Mercado Financeiro e seus desdobramentos (monetário, crédito, capitais e cambial)]]
+14. [[Moeda]]
+15. [[Orçamento público]]
+16. [[Títulos do Tesouro Nacional]]
+17. [[Dívida Pública Federal (DPF)]]
+18. [[Cartão de Débito e Crédito]]
+19. [[Crédito Direto ao Consomidor (CDC)]]
+20. [[Crédito rural]]
+21. [[Caderneta de poupança]]
+22. [[Título de Captalização]]
+23. [[Previdência Complementar Privada PGBL E VGBL]]
+24. [[Consórcio]]
+25. [[Planos de Seguros]]
+26. [[Títulos Bancários (CDB, LCI, LCA, LF, DPGE)]]
+27. [[Renda variável (Ações)]]
+28. [[Acionista Controlador e Direito dos Acionistas]]
+29. [[Mercado de Balcão]]
+30. [[Mercado de Câmbio]]
+31. [[Mercado interbancário e bancário]]
+32. [[Juros]]
+33. [[Garantias do Sistema Financeiro Nacional]]
+34. [[Prevenção a lavagem de dinheiro e financiamento do terrorismo]]
+35. [[Autorregulação Bancária]]
+36. [[Lei Complementar nº 105, de 10 de janeiro de 2001]]
+37. [[Lei Geral de Proteção de Dados (LGPD)]]
+38. [[Legislação anticorrupção]]
+39. [[Segurança Cibernética]]
+
+# Outros
+- https://educapes.capes.gov.br/bitstream/capes/401353/1/introducao_a_economia-3ed-miolo-online-atualizado.pdf (29)
+- [[Correção BANRISUL (atualidades do mercado financeiro e conhecimento bancário)]]
+- [[Terminologia (conhecimentos bancários)]]
+- [[Questões (conhecimentos bancários)]]
+
+# Reference
+- [Curso de Conhecimentos bancários - Willian Capriata](https://www.youtube.com/playlist?list=PLlEeFe9_z5K3ExGDxpouQ051de08ZvERe)
+- [Concurso Banco do Brasil 2023: Aulas Gratuitas + PDF 🚀](https://www.youtube.com/playlist?list=PLSkeYJRHX0YnON8kfiAwowkISGltf4KE2)

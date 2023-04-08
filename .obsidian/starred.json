@@ -29,6 +29,16 @@
       "type": "file",
       "title": "Mini dicas do curso de python",
       "path": "zettels/Dicas do curso de python.md"
+    },
+    {
+      "type": "file",
+      "title": "Planejamento de estudos do concurso Banco do Brasil 2023",
+      "path": "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md"
+    },
+    {
+      "type": "search",
+      "title": "tag:#importante",
+      "query": "tag:#importante"
     }
   ]
 }

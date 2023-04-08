@@ -1,0 +1,74 @@
+tags: #estudos/economia 
+
+- IF - Instituição financeira;
+- SFN - Sistema Financeiro Nacional;
+	- CRSFN - Conselho de Recursos do Sistema Financeiro Nacional.
+- CMN - Conselho Monetário Nacional; ^201862
+	- IPCA - Índice Nacional de Preços ao Consumidor Amplo.
+- BCB ou BACEN - Banco Central do Brasil;
+	- SPB - Sistema de Pagamentos Brasileiro.
+- CNSP - Conselho Nacional de Seguros Privados;
+	- SUSEP - Superintendência de Seguros Privados;
+		- EAPC - Entidade Aberta de Prividência Complementar;
+		- EFPC - Entidade Fechada de Previdência Complementar;
+		- TR - Taxa Referencial.
+	- PREVIC - Superintendência Nacional de Previdência Complementar.
+- COPOM - Comitê de Política Monetária;
+	- SELIC - Taxa básica de juros na economia.
+- CVM - Comissão de Valores Mobiliários;
+- Bancos Múltiplos ([[Bancos Múltiplos (BC, BI, BD, SAM, SCI, SCFI)]]):
+	- BC - Banco Comercial;
+	- BI - Banco de Investimentos;
+	- BD - Banco de Desenvolvimento;
+	- SCI - Sociedade de Crédito Imobiliário;
+	- SAM - Sociedade de Arrendamento Mercantil;
+	- SCFI - Sociedade de Crédito, Financiamento e Investimento.
+- IPO - Initial Public Offering;
+- CTVM - Corretora de Títulos e Valores Mobiliários;
+- DTVM - Distribuidora de Títulos e Valores Mobiliários;
+- CDI - Certificado de Depósito Interbancário;
+- PTAX - Cotação dólar;
+- TPF - Título Público Federal;
+- TRF - ???; [[Exemplos de operações no mercado interbancário]]
+- [[Orçamento público]]:
+	- PPA - Plano Plurianual;
+	- LDO - Lei de Diretrizes Orçamentárias;
+	- LOA - Lei Orçamentária Anual;
+- LTN - Letra do Tesouro Nacional;
+- LFT - Letra Financeira do Tesouro;
+- NTN-B - Nota do Tesouro Nacional tipo B;
+- NTN-F - Nota do Tesouro Nacional tipo F;
+- DPF - Dívida Pública Federal;
+- DPFe - Dívida Pública Federal externa;
+- DPMFi - Dívida Pública Mobiliária Federal interna;
+- CVV - Card Verification Value;
+- CDC - Crédito Direto ao Consumidor;
+- IOF - Imposto sobre Operações Financeiras;
+- LCA - Letra de Crédito do Agronegócio;
+- BNDES - Banco Nacional de Desenvolvimento Econômico e Social;
+- IR - Imposto de Renda;
+- FenaCap - Federação Nacional de Capitalização;
+- PGBL - Plano Gerador de Benefício Livre;
+- VGBL - Vida Gerador de Benefício Livre;
+- EAPC - Entidades Abertas de Previdência Complementar;
+- FIE - Fundo de Investimento Especialmente Constituído;
+- INSS - Instituto Nacional do Seguro Social;
+- Títulos Bancários ([[Títulos Bancários (CDB, LCI, LCA, LF, DPGE)]]):
+	- CDB - Certificado de Depósito Bancário;
+	- LCI - Letra do Crédito Imobiliário;
+	- LF - Letra Financeira;
+	- DPGE - Depósito à Prazo de Garantia Especial;
+- PCO - Postos de Compra de Ouro;
+- B3 - Bolsa de Valores;
+- Siscomex - Sistema Integrado de Comércio Exterior;
+- COAF - Conselho de Controle de Atividades Financeiras;
+- SISCOAF - Sistema de Controle de Atividades Financeiras;
+- GAFI - Grupo de Ação Financeira Internacional;
+- CPF - Cadastro de Pessoas Físicas;
+- CNPJ - Cadastro Nacional da Pessoa Jurídica;
+- CEP - Código de Endereço Postal;
+- CSNU - Conselho de Segurança das Nações Unidas;
+- ONU - Organização das Nações Unidas;
+- MJSP - Ministério da Justiça e Segurança Pública;
+
+

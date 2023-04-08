@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "f9b404993fd539a1",
+            "id": "8b45874f92d78a92",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,67 +32,67 @@
             }
           },
           {
-            "id": "9d73709533a3b7b4",
+            "id": "4d4683f53a3b7e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Juros simples e compostos.md",
+                "file": "zettels/Trabalho matemática.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "679f391232624397",
+            "id": "7a417177c4ee433c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Porcentagem.md",
+                "file": "zettels/Estudo conhecimentos bancários.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bad6908eed769fa4",
+            "id": "d058d2bd7e00a65b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Escalas numéricas.md",
+                "file": "zettels/Segurança Cibernética.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1177a845496efc48",
+            "id": "6785474465b0448b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Regra de três.md",
+                "file": "zettels/Questões (conhecimentos bancários).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f926809f3c7d2c5e",
+            "id": "0b46d68c85839e4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Razão e Proporção.md",
+                "file": "zettels/Trabalho conhecimentos bancários.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#importante",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,12 +138,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Juros simples e compostos.md",
+                "file": "zettels/Segurança Cibernética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Juros simples e compostos.md",
+                "file": "zettels/Segurança Cibernética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,12 +207,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Juros simples e compostos.md"
+                "file": "zettels/Segurança Cibernética.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,17 +228,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d73709533a3b7b4",
+  "active": "d058d2bd7e00a65b",
   "lastOpenFiles": [
-    "zettels/Razão e Proporção.md",
-    "diario/2023-02-12.md",
-    "zettels/Juros simples e compostos.md",
+    "zettels/Estudo conhecimentos bancários.md",
+    "zettels/Segurança Cibernética.md",
+    "zettels/Legislação anticorrupção.md",
+    "zettels/Questões (conhecimentos bancários).md",
+    "zettels/Trabalho conhecimentos bancários.md",
+    "diario/2023-04-07.md",
+    "zettels/Corretora de Títulos e Valores Mobiliários (CTVM) e Distribuidora (DTVM).md",
+    "zettels/Conselho de Recursos do Sistema Financeiro Nacional (CRSFN).md",
+    "zettels/Comitê de Política Monetária (COPOM).md",
     "zettels/Estudo matemática.md",
-    "zettels/Porcentagem.md",
-    "zettels/Escalas numéricas.md",
-    "zettels/Regra de três.md",
-    "diario/2023-02-08.md",
-    "diario/2023-02-10.md",
-    "diario/2023-02-09.md"
+    "diario/2023-04-06.md",
+    "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md",
+    "zettels/Trabalho matemática.md",
+    "diario/2023-04-05.md",
+    "diario/2023-04-04.md",
+    "zettels/Teoria de conjuntos matemáticos.md",
+    "zettels/Estudo língua portuguesa.md",
+    "zettels/Interpretação e compreensão de textos.md",
+    "zettels/Mathjax termos importantes.md",
+    "zettels/Trabalho língua portuguesa.md",
+    "arquivos/Pasted image 20230403092350.png",
+    "diario/2023-04-01.md",
+    "zettels/Sets em python.md",
+    "zettels/Rammstein.md",
+    "zettels/Rock.md",
+    "arquivos/Pasted image 20230401051602.png",
+    "zettels/Títulos Bancários (CDB, LCI, LCA, LF, DPGE).md",
+    "zettels/Terminologia (conhecimentos bancários).md",
+    "arquivos/Pasted image 20230326061309.png",
+    "arquivos/Pasted image 20230309141250.png",
+    "arquivos/Pasted image 20230308110645.png",
+    "arquivos/Pasted image 20230307200401.png",
+    "arquivos/Pasted image 20230303090759.png",
+    "arquivos/Pasted image 20230303090741.png",
+    "arquivos/Pasted image 20230303090739.png",
+    "arquivos/Pasted image 20230303090716.png"
   ]
 }
