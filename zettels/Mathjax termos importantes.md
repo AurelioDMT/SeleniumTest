@@ -33,6 +33,14 @@ $\S$
 20.  Complemento: $A^{c}$ ou $\complement_{U}^A$
 21.  Conjunto das partes: $\mathcal{P}(A)$
 
+# Lógica Proposicional
+1.  Conjunção: $\land$ (lido como "e") Exemplo: $p \land q$
+2.  Disjunção: $\lor$ (lido como "ou") Exemplo: $p \lor q$
+3.  Negação: $\lnot$ (lido como "não") Exemplo: $\lnot p$
+4.  Condicional: $\rightarrow$ (lido como "se...então") Exemplo: $p \rightarrow q$
+5.  Bicondicional: $\leftrightarrow$ (lido como "se e somente se") Exemplo: $p \leftrightarrow q$
+6.  Disjunção exclusiva: $\veebar$ (lido como "ou exclusivo") Exemplo: $p \veebar q$
+
 # Reference
 - Chat GTP
 - https://docs.mathjax.org/en/latest/

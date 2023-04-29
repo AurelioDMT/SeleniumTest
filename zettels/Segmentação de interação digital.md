@@ -1,0 +1,70 @@
+tags: #estudos/economia 
+
+# Segmentação digital
+- **Segmentação** é um termo genérico para designar a divisão de algo em partes separadas ou **segmentos**. A segmentação é usualmente utilizada para:
+	- Conhecer melhor cada grupo de consumidor;
+	- Aumentar a eficácia das ações de atração, conversão e fidelização de clientes;
+	- Identificar necessidades específicas de cada grupo;
+	- Desenvolver abordagem de vendas mais acertada e que contorne as objeções comuns a cada grupo de consumidores;
+
+- **Quais são os tipos de segmentação?**
+	- **Marketing one-to-one**
+		- O **marketing cara a cara** é aquele voltado para **as preferências e os interesses dos consumidores**. O objetivo é criar uma campanha personalizada, que atenda a um grupo específico de pessoas.
+	- **Marketing concentrado ou de nichos**
+		- A diferença é que o foco é **uma fatia de um grupo**. Em outras palavras, você tem uma persona e direciona suas estratégias para ela, de acordo com seus interesses e dores. Alguns fatores mostram por que vale a pena pensar no marketing concentrado:
+			- **o nicho aumenta suas chances de relevância**, porque os concorrente não têm interesse;
+			- **as estratégias são mais bem direcionadas para uma persona**, em vez de diferentes grupos. Isso porque os grupos têm características diversas;
+			- **a marca faz uma divulgação melhor da campanha**, assim como um bom planejamento e uma boa distribuição, a partir das informações sobre as personas;
+			- **as ações são mais baratas e oferecem melhor retorno do investimento**, pois são direcionadas;
+			- os clientes se sentem mais satisfeitos e têm mais potencial de fidelização;
+			- as parcerias estratégicas são mais precisas e fáceis de serem negociadas.
+	- **Marketing de massa**
+		- Essa estratégia era mais usada antigamente, quando **as empresas queriam alcançar todo mundo** — literalmente, qualquer pessoa. A ideia era **"atirar para todos os lados"**, sem fazer uma segmentação apropriada.
+	- **Marketing segmentado**
+		- Os clientes, aqui, são vistos a partir de **grupos diversos**. Os subconjuntos avaliam aspectos únicos, que vão além de questões geográficas e demográficas, por exemplo. **O que consideram? Comportamentos, necessidades e motivações**. Assim, em vez de enviar um e-mail marketing único para uma base de 5 mil pessoas, você divide esses indivíduos em grupos e cria diversas mensagens, com o objetivo de aumentar a conversão.
+	- **Segmentação demográfica**
+		- É o tipo de segmentação em marketing digital mais básico que existe. Leva em consideração dados como:
+			- faixa etária;
+			- sexo;
+			- poder aquisitivo;
+			- localização geográfica;
+			- estado civil;
+			- nacionalidade;
+			- religião;
+			- entre outros.
+		- Ao segmentar demograficamente um determinado público, você tem grandes grupos com características semelhantes, o que ainda não é o ideal para travar uma conversa personalizada. Afinal, você não consegue identificar, com detalher, o comportamento dessas pessoas.
+	- **Segmentação socioeconômica**
+		- É um modelo em que você identifica dados complementares à segmentação demográfica e **melhora sua capacidade de compreensão sobre o público** que pretende atingir. São levantados dados como:
+			- escolaridade;
+			- profissão
+			- renda
+			- classe social;
+			- posse de bens;
+			- entre outros.
+	- **Segmentação geográfica**
+		- Busca compreender as **características da população de determinada localidade**. Apesar de a localização de moradia do consumidor figurar na segmentação demográfica, também podemos fazer apenas a geográfica.
+	- **Segmentação posicgráfica**
+		- Aprofunda o conhecimento sobre o consumidor e busca identificar características mais subjetivas, como personalidade, estilo de vida e classe social.
+	- **Segmentação comportamental**
+		- É uma das maiores aliadas no marketing digital. Isso porque, temos diversas ferramentas que permitem monitorar e analisar o comportamento dos internautas. **Esse tipo de segmentação serve para que você ofereça produtos, serviços e também uma comunicação personalizada, alinhada às atitudes tomadas pelo consumidor**. Assim, se um e-commerce sabe que um consumidor busca um tênis para corrida, é possível utilizar essa informação para realizar promoções direcionadas, enviar e-mail marketing personalizados e até investir em ações pontuais para converter a venda.
+	- **Quais são as macros segmentações?**
+		- **Mobile**
+			- O propósito é trabalhar o site, o blog e as landing pages de forma responsiva. Nesse caso, a divisão é feita pelas **pessoas que acessam as páginas pelo celular**. Assim, você oferece o conteúdo no formato mais adequado.
+		- **Quiz**
+			- A ideia é dividir as pessoas que gostam de **conteúdos interativos e/ou lúdicos**. Incentiva a competitividade, o humor e outras características desse público.
+		- **Áudio**
+			- O foco são as pessoas que gostam de texto, mas têm **pouco tempo para ler**. Para alcançar esse público, basta ofertar uma plataforma de áudio aliada ao conteúdo.
+	- **Quais pontos considerar ao fazer a segmentação?**
+		- **homogeneidade** dos grupos;
+		- **mensurabilidade** dos dados estatísticos do segmento;
+		- **acessibilidade**, para otimizar as melhores estratégias;
+		- **substancialidade**, para ter uma dimensão que permita explorar ações e alcançar ganhos;
+		- **Gênero**;
+		- **Receita mensal**;
+		- **Grupo de idade**;
+		- **Estilo de vida**;
+	- **O que é o Remarketing?**
+		- Refere-se à segmentação comportamental baseada no comportamento de navegação dos usuários que visitaram seu site anteriormente, ou seja, essa segmentação permite atingir a pessoa certa, na hora certa e com a mensagem certa, de forma eficiente e em larga escala. Para isso, basta que os usuários sejam marcados com um "cookie", arquivo criado por um site quando o internauta o visita e, assim, controlar o histórico de visualização do consumidor. Com isso, o anunciante vai manter o registro, permitindo apresentar um banner para este consumidor quando ele acessar os sites que contém uma mídia comprada por esta empresa.
+
+# Reference
+- https://youtu.be/h0WDjK6HfaQ

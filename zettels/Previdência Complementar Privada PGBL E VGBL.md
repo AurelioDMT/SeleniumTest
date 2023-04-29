@@ -6,12 +6,12 @@ tags: #estudos/economia
 	- Percentual deve ser aprovado pela **SUSEP**.
 
 - Taxas de carregamento:
-	- Limite máximo de 10$%, com aprovação da SUSEP.
+	- Limite máximo de 10%, com aprovação da SUSEP.
 ![[Pasted image 20230226033721.png]]
 
 # SAIBA MAIS: Regimes Previdenciários Brasileiro
 ## REPARTIÇÃO SIMPLES:
-- O modelo da Previdência Social brasileira adota o **regime de repartição simples**, que funciona em regine de caixa. Nesse caso, **as contibuições dos trabalhadores ativos são utilizadas para o pagamento dos benefícios dos aposentados**. Esse modelo é um sistema previdenciário de Benefício Definido (BD), estipulado pelo cálculo de determinada taxa de reposição de renda, e os valores das pensões são previamente definidos. **A repartição simples mantém seu equilíbrio quando o número de contribuintes ativos é superior ao número de aposentados**. A margem entre contribuintes e aposentados, que era positiva, vem caindo ao longo do tempo. Há alguns anos, a arrecadação tem sido deficitária em relação às dispesas com benefícios.
+- O modelo da Previdência Social brasileira adota o **regime de repartição simples**, que funciona em regime de caixa. Nesse caso, **as contibuições dos trabalhadores ativos são utilizadas para o pagamento dos benefícios dos aposentados**. Esse modelo é um sistema previdenciário de Benefício Definido (BD), estipulado pelo cálculo de determinada taxa de reposição de renda, e os valores das pensões são previamente definidos. **A repartição simples mantém seu equilíbrio quando o número de contribuintes ativos é superior ao número de aposentados**. A margem entre contribuintes e aposentados, que era positiva, vem caindo ao longo do tempo. Há alguns anos, a arrecadação tem sido deficitária em relação às dispesas com benefícios.
 
 ## CAPITALIZAÇÃO
 - Para resolver esse problema de desequilíbrio, alguns países optaram pelo **regime de capitalização** que utiliza o método de **Contribuições Definidas (CD)**, que são capitalizadas em contas individualizadas, ou coletivas, para a formação de uma reserva financeira. Esta, na ocasião da aposentadoria, será transformada em benefícios, ou seja, **o benefício que o trabalhador receberá depende das contribuições do próprio indivíduo e das taxas de retorno dos investimentos realizados com os recursos acumulados**, portanto não há déficit.
@@ -44,7 +44,7 @@ tags: #estudos/economia
 - **Pagamento único (pecúlio)**: benefício sob a forma de **pagamento único**, cujo evento gerador é a morte ou a invalidez do participante.
 - **Renda mensal por prazo certo**: consiste em uma renda mensal a ser paga por um prazo pré-estabelecido ao participante. **Passa ao beneficiário pelo restante de anos que ficar faltando**.
 
-# Fundo de Investimento Especialmentee Constituído (FIE)
+# Fundo de Investimento Especialmente Constituído (FIE)
 - Diferentemente dos fundos de investimento, em que o cotista do fundo é o próprio investidor, nos planos de previdência complementar o cotista do fundo é a seguradora.
 ![[Pasted image 20230227020239.png]]
 

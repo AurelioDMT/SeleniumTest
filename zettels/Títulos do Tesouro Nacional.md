@@ -20,7 +20,7 @@ $\uparrow$Taxa de desconto (SELIC) $\uparrow$Rentabilidade $\downarrow$Preço Un
 ---
 # Notas
 - É uma das arregadações do governo.
-- Títulos públicos são parcelas do governo. Logo, se eu compro títulos públicos eu estou ajudando o governo.
+- Títulos públicos são parcelas do governo. Logo, se eu compro títulos públicos eu estou financiando o governo.
 - Há 5 títulos que o governo usa para se financiar
 	- Títulos sem cupom (sem juros semestral):
 		- LTN; $\rightarrow$ Pré-fixado.
@@ -31,6 +31,6 @@ $\uparrow$Taxa de desconto (SELIC) $\uparrow$Rentabilidade $\downarrow$Preço Un
 		- NTN-F. $\rightarrow$ Pré-fixado + juros semestrais.
 - Os títulos sem cupom, pelo fato dele não pagarem cupom, você recebe o juros apenas no vencimento desse título.
 	- Logo, você recebe juros sobre juros, ou seja, juros compostos.
-- Os títulos com cupom inside sobre o capitão incial.
+- Os títulos com cupom inside sobre o capital incial.
 	- Logo, você recebe juros simples.
 - Entre esse títulos há os juros pré-fixados, valor fixo e, juros pós-fixado, valor variável que depende de um determinado indicador.

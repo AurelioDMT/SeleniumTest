@@ -11,7 +11,7 @@ tags: #estudos/economia
 # Características Básicas das carteiras
 ## BC
 - Captação de recursos através de depósito à vista (conta corrente);
-- Captação de recursos através de depósitos à prazo (CBD);
+- Captação de recursos através de depósitos à prazo (CDB);
 - Concessão de crédito simples (cheque especial);
 - Arrecadação de tarifas e tributos públicos;
 - Concedem empréstimos de **curto e médio** prazo;
@@ -21,7 +21,7 @@ tags: #estudos/economia
 ## BI
 - Podem administrar **Fundos de Investimentos** (recursos de terceiros);
 - Podem fazer **underwritting**;
-- Captação de recursos através de depósitos a prazo (CBD);
+- Captação de recursos através de depósitos a prazo (CDB);
 - Prestam assessoria financeira;
 - Concedem empréstimos de **médio e longo prazo**;
 - **Podem intermediar operações de câmbio**.

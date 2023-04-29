@@ -1,5 +1,4 @@
 tags: #estudos/português 
-trabalho sobre: [[Trabalho língua portuguesa]]
 
 # Língua e Linguagem
 - [[Pontuação]]
@@ -17,10 +16,14 @@ trabalho sobre: [[Trabalho língua portuguesa]]
 - [[Vozes verbais]]
 
 # Outros
-- [[Crase (macetes)]]
+- [[Crase]]
 - [[Interpretação e compreensão de textos]]
 
 # Reference
 - Cursos:
 	- [Língua e Linguagem - Professor Noslen](https://www.youtube.com/playlist?list=PLVyIxkvuIqxoVenYp2sA1uvMYMaCTJI8q)
 	- [Estudo da Formação das Palavras - Professor Noslen](https://www.youtube.com/playlist?list=PLVyIxkvuIqxo2Ec2VyS_Rzb6lJITuIxJY)
+- Sites:
+	- https://www.todamateria.com.br/origens-da-literatura-brasileira/
+- Livros:
+	- [[Notas Gramática Metódica da Língua Portuguesa]]

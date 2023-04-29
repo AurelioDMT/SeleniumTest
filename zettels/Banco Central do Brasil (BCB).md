@@ -1,5 +1,5 @@
 tags: #estudos/economia 
-site oficial: https://www.gov.br/cvm/pt-br
+site oficial: https://www.bcb.gov.br
 
 # Definição:
 > Banco central é uma entidade independente ou ligada ao Estado cuja função é gerir a **política econômica**, ou seja, garantir a estabilidade e o poder de compra da **moeda** de cada país e do sistema financeiro como um todo. Além disso tem como objetivo definir as políticas monetárias (**taxa de juros** e **câmbio**, entre outras) e aquelas que regulamentam o sistema financeiro local. O banco faz isso interferindo mais, ou menos, no **mercado financeiro**, vendendo papéis do tesouro, regulando juros e avaliando os riscos econômicos para o país.
@@ -110,7 +110,7 @@ site oficial: https://www.gov.br/cvm/pt-br
 			- Compra TPF = injeta liquidez.
 		- Entre essas 3 políticas, a do open market é a mais rápida e eficaz.
 
-- Circular: cria nromas.
+- Circular: cria normas.
 - Carta circular: exclaresse essas normas.
 - Comunicado: informativo.
 

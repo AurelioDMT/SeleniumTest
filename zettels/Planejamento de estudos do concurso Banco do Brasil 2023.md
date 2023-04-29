@@ -8,7 +8,8 @@ Edital: https://fcgprdstgcbb01.blob.core.windows.net/bbrasil/bb0122_edital.pdf
 - [[Estudo matemática]]
 - [[Estudo língua portuguesa]]
 - [[Estudo conhecimentos bancários]]
-
+- [[Estudo atualidades do mercado financeiro]]
+- [[Redação (BB)]]
 
 ## Prova 2021 (Agente Comercial)
 - Prova: https://www.cesgranrio.org.br/pdf/banrisul0122/PROVA%20ESCRITURÁRIO%20-%20GABARITO%201.pdf
@@ -100,7 +101,6 @@ Edital: https://fcgprdstgcbb01.blob.core.windows.net/bbrasil/bb0122_edital.pdf
 			74. D C
 			75. C C
 
-
 ### Minha nota
 - Baseado na média por tópico.
 
@@ -120,22 +120,6 @@ Edital: https://fcgprdstgcbb01.blob.core.windows.net/bbrasil/bb0122_edital.pdf
 		- 8/10
 	- Vendas e Negociação (66,6% aproveitamento)
 		- 10/15
-
-## Conteúdo que tive dificuldade durante a prova
-- Matemática
-	- Logarítimo
-	- MMC
-- Língua Portuguesa
-	- Crase
-	- Pronome oblíquo átono
-	- Causa e conculsão
-- Matemática Financeira
-	- Juros
-- Conhecimentos Bancários
-- Vendas e Negociação
-	- Net Promoter Score (NPS)
-	- Telemarketing
-	- B2G, i-sale, smart retail, m-commerce, e-procurement
 
 # Conteúdo da prova (provas objetivas)
 - A seleção será feita através da aplicação de provas objetivas (**1ª Etapa**), de caracteres eliminatório e classificatório, e de prova de Redação (**2ª Etapa**), de caráter eliminatório.

@@ -2,32 +2,21 @@ tags: #estudos/português
 relacionado: [[Morfemas]]
 
 # Definição
-> Organizar as palavras de acordo com sua função no texto.
+> Organizar as palavras de acordo com sua função no texto. São, ao todo, 10 classes gramaticais divididas em varáveis e invariáveis. É do tipo variável aquela que tem possibilidade de ter masculino e feminino, singular e plural ou os dois ao mesmo tempo. É considerada invariável aquela palavra que não há gênero.
 
-- As classes são:
-	- Verbo;
-	- Substantivo;
-	- Adjetivo;
-	- Pronome;
-	- Advérbio;
-	- Preposição;
-	- Conjunção;
-	- Artigo;
-	- Numeral;
-	- Interjeição.
-- Entre essas, podem ser variáveis e invariáveis.
-	- Variável é a possibilidade de ter masculino e feminino, singular e plural ou os dois ao mesmo tempo.
-		- Substantivo;
-		- Artigo;
-		- Adjetivo;
-		- Verbo;
-		- Pronome;
-		- Numeral.
-	- Invariável não vai ter nenhum desses, ou seja, uma palavra sem gênero.
-		- Advérbio;
-		- Preposição;
-		- Conjunção;
-		- Interjeição.
+## Variáveis
+- Substantivo;
+- [[Artigo]];
+- Adjetivo;
+- Verbo;
+- Pronome;
+- Numeral.
+
+## Invariáveis
+- Advérbio;
+- [[Preposição]];
+- Conjunção;
+- Interjeição.
 
 # Substantivo
 - É a palavra responsável por nomear as coisas reais e irreais.

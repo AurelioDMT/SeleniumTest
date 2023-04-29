@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"id":"11116f65b5136458","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"[[Internet]]"},
-		{"id":"0797c566b16e8661","x":-128,"y":-192,"width":250,"height":52,"type":"text","text":"Backend"},
-		{"id":"4046f4a615293da7","x":220,"y":-95,"width":250,"height":50,"type":"text","text":"DNS e como funciona"},
-		{"id":"56be07289e8bada7","x":220,"y":-25,"width":250,"height":50,"type":"text","text":"Sistema de Nomes de Domínio"},
-		{"id":"ca382509ebe82037","x":220,"y":55,"width":250,"height":50,"type":"text","text":"O que é Hosting"},
-		{"id":"c3962fc03ec1965f","x":-135,"y":165,"width":257,"height":60,"type":"text","text":"Conhecimento básico em Frontend"},
-		{"id":"c5edd97cb0b6059c","x":-500,"y":60,"width":250,"height":50,"type":"text","text":"Navegadores e como eles funcionam"},
-		{"id":"bed494a82763d3e9","x":-500,"y":-20,"width":250,"height":50,"type":"text","text":"O que é HTTP"},
-		{"id":"cc2d9ae779600ba6","x":-500,"y":140,"width":250,"height":50,"type":"text","text":"HTML"},
-		{"id":"ed0f1c8afb7e2e17","x":-440,"y":-252,"width":250,"height":60,"type":"text","text":"tags: #roadmap #programação "},
-		{"id":"73169d95de7e218c","x":220,"y":125,"width":250,"height":50,"type":"text","text":"CSS"},
-		{"id":"6587f56a99beaa0d","x":220,"y":200,"width":250,"height":50,"type":"text","text":"JavaScript"},
-		{"id":"3bf4950297562757","x":-500,"y":-100,"width":250,"height":50,"type":"text","text":"[[Como a Internet funciona.]]"}
+		{"type":"text","text":"[[Internet]]","id":"11116f65b5136458","x":-125,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"Backend","id":"0797c566b16e8661","x":-128,"y":-192,"width":250,"height":52},
+		{"type":"text","text":"DNS e como funciona","id":"4046f4a615293da7","x":220,"y":-95,"width":250,"height":50},
+		{"type":"text","text":"Sistema de Nomes de Domínio","id":"56be07289e8bada7","x":220,"y":-25,"width":250,"height":50},
+		{"type":"text","text":"O que é Hosting","id":"ca382509ebe82037","x":220,"y":55,"width":250,"height":50},
+		{"type":"text","text":"Conhecimento básico em Frontend","id":"c3962fc03ec1965f","x":-135,"y":165,"width":257,"height":60},
+		{"type":"text","text":"Navegadores e como eles funcionam","id":"c5edd97cb0b6059c","x":-500,"y":60,"width":250,"height":50},
+		{"type":"text","text":"O que é HTTP","id":"bed494a82763d3e9","x":-500,"y":-20,"width":250,"height":50},
+		{"type":"text","text":"[[HTML]]","id":"cc2d9ae779600ba6","x":-500,"y":140,"width":250,"height":50},
+		{"type":"text","text":"tags: #roadmap #programação ","id":"ed0f1c8afb7e2e17","x":-440,"y":-252,"width":250,"height":60},
+		{"type":"text","text":"[[CSS]]","id":"73169d95de7e218c","x":220,"y":125,"width":250,"height":50},
+		{"type":"text","text":"JavaScript","id":"6587f56a99beaa0d","x":220,"y":200,"width":250,"height":50},
+		{"type":"text","text":"[[Como a Internet funciona.]]","id":"3bf4950297562757","x":-500,"y":-100,"width":250,"height":50}
 	],
 	"edges":[
 		{"id":"09dcc3b99c05d705","fromNode":"11116f65b5136458","fromSide":"bottom","toNode":"c3962fc03ec1965f","toSide":"top"},

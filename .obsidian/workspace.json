@@ -4,95 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "5741d0acdfc0ab68",
+        "id": "8a74ca7242576dd0",
         "type": "tabs",
         "children": [
           {
-            "id": "b55cf9f52f647193",
+            "id": "a5c4e620210824fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "zettels/Backend roadmap.canvas",
+                "viewState": {
+                  "x": 8.50258748231601,
+                  "y": 37.45876585928487,
+                  "zoom": -0.2994562776025899
+                }
+              }
+            }
+          },
+          {
+            "id": "504018690e171e09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md",
+                "file": "zettels/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b45874f92d78a92",
+            "id": "d1482f752cb3a693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Estudo matemática.md",
+                "file": "zettels/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d4683f53a3b7e7a",
+            "id": "991c235457670928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Trabalho matemática.md",
+                "file": "zettels/Questões (programação).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a417177c4ee433c",
+            "id": "9cb4c1066ec2f866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Estudo conhecimentos bancários.md",
+                "file": "zettels/Metas da programação.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d058d2bd7e00a65b",
+            "id": "0de231866354e96d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Segurança Cibernética.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6785474465b0448b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Questões (conhecimentos bancários).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b46d68c85839e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Trabalho conhecimentos bancários.md",
+                "file": "zettels/Palavras e seus significados.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,12 +129,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "20a61bb452eb6f85",
@@ -165,20 +156,12 @@
             }
           },
           {
-            "id": "c403ec5d38296556",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "fe389f536d63387a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Segurança Cibernética.md",
+                "file": "zettels/Questões (programação).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Segurança Cibernética.md",
+                "file": "zettels/Questões (programação).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +190,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Segurança Cibernética.md"
+                "file": "zettels/Questões (programação).md"
               }
+            }
+          },
+          {
+            "id": "23209b8860169049",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -228,43 +219,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d058d2bd7e00a65b",
+  "active": "991c235457670928",
   "lastOpenFiles": [
-    "zettels/Estudo conhecimentos bancários.md",
-    "zettels/Segurança Cibernética.md",
-    "zettels/Legislação anticorrupção.md",
-    "zettels/Questões (conhecimentos bancários).md",
-    "zettels/Trabalho conhecimentos bancários.md",
-    "diario/2023-04-07.md",
-    "zettels/Corretora de Títulos e Valores Mobiliários (CTVM) e Distribuidora (DTVM).md",
-    "zettels/Conselho de Recursos do Sistema Financeiro Nacional (CRSFN).md",
-    "zettels/Comitê de Política Monetária (COPOM).md",
-    "zettels/Estudo matemática.md",
-    "diario/2023-04-06.md",
-    "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md",
-    "zettels/Trabalho matemática.md",
-    "diario/2023-04-05.md",
-    "diario/2023-04-04.md",
-    "zettels/Teoria de conjuntos matemáticos.md",
-    "zettels/Estudo língua portuguesa.md",
-    "zettels/Interpretação e compreensão de textos.md",
-    "zettels/Mathjax termos importantes.md",
-    "zettels/Trabalho língua portuguesa.md",
-    "arquivos/Pasted image 20230403092350.png",
-    "diario/2023-04-01.md",
-    "zettels/Sets em python.md",
-    "zettels/Rammstein.md",
+    "zettels/Metas da programação.md",
+    "zettels/Palavras e seus significados.md",
     "zettels/Rock.md",
-    "arquivos/Pasted image 20230401051602.png",
-    "zettels/Títulos Bancários (CDB, LCI, LCA, LF, DPGE).md",
-    "zettels/Terminologia (conhecimentos bancários).md",
-    "arquivos/Pasted image 20230326061309.png",
-    "arquivos/Pasted image 20230309141250.png",
-    "arquivos/Pasted image 20230308110645.png",
-    "arquivos/Pasted image 20230307200401.png",
-    "arquivos/Pasted image 20230303090759.png",
-    "arquivos/Pasted image 20230303090741.png",
-    "arquivos/Pasted image 20230303090739.png",
-    "arquivos/Pasted image 20230303090716.png"
+    "zettels/Rammstein.md",
+    "zettels/Por onde vou basear meus estudos.md",
+    "zettels/Minha biblioteca de programação.md",
+    "zettels/Questões (programação).md",
+    "zettels/Artes liberais.md",
+    "zettels/Resumindo o livro Como Ler Livros por capítulo.md",
+    "zettels/Lista de assuntos que tenho interesse.md",
+    "zettels/Dicas do curso de python.md",
+    "zettels/Estudo matemática.md",
+    "zettels/Trabalho matemática.md",
+    "zettels/Notas Gramática Metódica da Língua Portuguesa.md",
+    "zettels/Como fazer resumos.md",
+    "zettels/Estudo língua portuguesa.md",
+    "zettels/Trabalho língua portuguesa.md",
+    "zettels/Questões (conhecimentos bancários).md",
+    "zettels/Estudo conhecimentos bancários.md",
+    "zettels/Trabalho conhecimentos bancários.md",
+    "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md",
+    "zettels/HTML.md",
+    "zettels/CSS.md",
+    "zettels/Backend roadmap.canvas",
+    "links nada ave.md",
+    "README.md",
+    "diario/2023-04-26.md",
+    "arquivos/Pasted image 20230419013026.png",
+    "arquivos/Pasted image 20230419012206.png",
+    "arquivos/Pasted image 20230419011004.png",
+    "arquivos/Pasted image 20230419010910.png",
+    "arquivos/Pasted image 20230415223235.png",
+    "arquivos/Pasted image 20230415223220.png",
+    "arquivos/Pasted image 20230415223201.png",
+    "arquivos/Pasted image 20230415223147.png",
+    "arquivos/Pasted image 20230415223121.png",
+    "arquivos/Pasted image 20230415223040.png"
   ]
 }

@@ -10,7 +10,7 @@ tags: #estudos/economia
 - Deve ser usada para **financiamento habituacional** e/ou **crédito rural**.
 
 - **Até dia 03 de maio de 2021**: 6% a.a. + TR.
-- **Posterior a 03 de maio de 2012**: depende da SELIC.
+- **Posterior a 03 de maio de 2021**: depende da SELIC.
 
 - Se a SELIC estiver **abaixo ou igual** 8,5% a.a. $\rightarrow$ 70% SELIC + TR.
 - Se a SELIC estiver **acima** de 8,5% a.a. $\rightarrow$ 0.5% a.m. + TR.

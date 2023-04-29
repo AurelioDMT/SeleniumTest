@@ -1,5 +1,4 @@
 tags: #estudos/matemática 
-trabalho sobre: [[Trabalho matemática]]
 
 # Básico
 - Primeiramente anotar, sem tentar compreender muito, após isso, executar execicios e estudar tópicos que tiver mais dificuldade. 
@@ -35,8 +34,14 @@ trabalho sobre: [[Trabalho matemática]]
 ## Curso conjuntos
 - [[Teoria de conjuntos matemáticos]]
 
+## Curso lógica proposicional
+- [[Proposições e Tabela-verdade]]
+- [[Conectivos]]
+- [...]
+
 ## Outros
 - [[Média aritmética]]
+- [[Questões (matemática)]]
 
 # Avançado
 - [[Logaritmo]]
@@ -46,3 +51,4 @@ trabalho sobre: [[Trabalho matemática]]
 	- `(144/90) * 100`  
 - [Curso matemática básica - Professor Ferretto](https://www.youtube.com/playlist?list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB)
 - [Curso conjuntos](https://www.youtube.com/playlist?list=PLTPg64KdGgYgTXWPsURDnPBd7GUwPVBLx)
+- [Curso lógica proposicional](https://www.youtube.com/playlist?list=PL1Ee2FHVjbenML6517aFku9mX-bPHJUY6)

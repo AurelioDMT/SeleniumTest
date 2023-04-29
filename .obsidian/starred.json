@@ -12,11 +12,6 @@
     },
     {
       "type": "file",
-      "title": "Lista de assuntos que tenho interesse",
-      "path": "zettels/Lista de assuntos que tenho interesse.md"
-    },
-    {
-      "type": "file",
       "title": "Backend roadmap",
       "path": "zettels/Backend roadmap.canvas"
     },
@@ -27,13 +22,18 @@
     },
     {
       "type": "file",
+      "title": "Minha biblioteca de programação",
+      "path": "zettels/Minha biblioteca de programação.md"
+    },
+    {
+      "type": "file",
       "title": "Mini dicas do curso de python",
       "path": "zettels/Dicas do curso de python.md"
     },
     {
       "type": "file",
-      "title": "Planejamento de estudos do concurso Banco do Brasil 2023",
-      "path": "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md"
+      "title": "Questões (programação)",
+      "path": "zettels/Questões (programação).md"
     },
     {
       "type": "search",

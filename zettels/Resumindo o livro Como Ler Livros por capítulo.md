@@ -2,11 +2,9 @@ tags: #literatura #livros
 status: #zettel/literature
 
 # Por que esse livro?
-- Bem, recomendaram-me em um vídeo de como aprender lógica, como falado no vídeo, esse é um livro base para começar a aprender, e como eu quero o método mais efetivo para estudar (falo isso em [[Por onde vou basear meus estudos]]), optei por esse livro.
-- Ai eu fui lendo esse livro, até mais ou menos a página 150, depois cheguei a parar. E agora eu vou fazer um resumo por capítulo, porque achei muito promissor o livro.
+- Bem, recomendaram-me em um vídeo de como aprender lógica. Como falado no vídeo, esse é um livro base para começar a aprender, e como eu quero o método mais efetivo para estudar (falo isso em [[Por onde vou basear meus estudos]]), optei por esse livro.
 
 # Sumário
-
 - LENDO MORTIMER ADLER COMO MORTIMER ADLER NOS ENSINA A LER
 - PREFÁCIO DA EDIÇAO AMERICANA DE 1972
 1. A LEITURA: ARTE E ATIVIDADE
@@ -182,5 +180,5 @@ status: #zettel/literature
 - Neste primeiro capítulo, o livro começa propondo que para mais entendimento, precisa-se de mais atenção à leitura e frisa que, a leitura possui uma série de atos individuais que, devem ser desempenhados cuidadosamente. Caso haja uma **desigualdade inicial de entendimento**, deve-se executar uma *leitura rigorosa* para superar parcial ou totalmente essa desigualdade. O livro fala que se usarmos nossas capacidades de analisar e pensar, sem auxílio, estaremos **descobrindo**. 
 
 # References
-Base: [[Como fazer resumos]]
+- Base: [[Como fazer resumos]]
 - [Como Ler Livros](https://www.skoob.com.br/como-ler-livros-112376ed124846.html) (Mortimer J. Adler & Charles Van Doren)

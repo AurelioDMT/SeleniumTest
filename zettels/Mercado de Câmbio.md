@@ -41,7 +41,7 @@ tags: #estudos/economia
 - As reservas internacionais **são os ativos do Brasil em moeda estrangeira** e **funcionam como uma espécie de seguro para o país fazer frente às suas obrigações no exterior e a choques de natureza externa**, tais como crises cambiais e interrupções nos fluxos de capital para o país.
 - No caso do Brasil, que adota o regime de câmbio flutuante, esse colchão de segurança ajuda a manter a funcionalidade do mercado de câmbio de forma a atenuar oscilações bruscas da moeda local - o real - perante o dólar, dando **maior previsiblidade e segurança para os agentes do mercado**.
 - **Essas reservas, administradas pelo Banco Central, são compostas principalmente por títulos, depósitos em moedas (dólar, euro, libra esterlina, iene, dólar canadense e dólar australiano), direitos especiais de saque junto ao Fundo Monetário Internacional (FMI), depósitos no Banco de Compensações Internacionais (BIS), ouro, entre outros ativos.**
-- A alocação das reservas internacionais é feita de acordo com o **tripé de segurança, liquidez e rentabilidade**, nessa ordem, sendo a política de investimentos definida pela Diretoria Colegiada do Banco Central.
+- A alocação das reservas internacionais é feita de acordo com o **tripé de segurança, liquidez e rentabilidade**, nessa ordem, sendo a política de investimentos definida pela Diretoria Colegiada do Banco Central. ^9a1d71
 
 # Taxa de câmbio
 - Fórmula da **taxa de câmbio real**.

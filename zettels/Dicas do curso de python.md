@@ -5,9 +5,7 @@ tags: #programação/python
 # sys.argv
 - Quando você executa um código python, passa-se o binário do python depois o módulo como primeiro argumento.
 	- Ex: `python programa.py`
-
-- Então o primeiro argumento sempre vai ser o módulo. Você consegue passar mais argumento e capturá-los usando o "sys.argv".
-
+- Então o primeiro argumento sempre vai ser o módulo. Você consegue passar mais argumento e capturá-los usando o "`sys.argv[1]`". Lembrando que tem que ser depois do zero.
 - Logo, você consegue trabalhar com esses argumentos, passados direto na execução.
 	- Ex: `python programa.py argumento1 argumento2`
 

@@ -1,5 +1,4 @@
 tags: #estudos/economia 
-trabalho sobre: [[Trabalho conhecimentos bancários]]
 
 # Curso
 1. [[Sistema Financeiro Nacional (SFN)]]
@@ -41,6 +40,10 @@ trabalho sobre: [[Trabalho conhecimentos bancários]]
 37. [[Lei Geral de Proteção de Dados (LGPD)]]
 38. [[Legislação anticorrupção]]
 39. [[Segurança Cibernética]]
+40. [[Código de Ética do Banco do Brasil]]
+41. [[Política de Responsabilidade Socioambiental do Banco do Brasil]]
+42. [[Conceitos de ASG (Social, Ambiental e Governança)]]
+43. [[Decreto 11129]]
 
 # Outros
 - https://educapes.capes.gov.br/bitstream/capes/401353/1/introducao_a_economia-3ed-miolo-online-atualizado.pdf (29)

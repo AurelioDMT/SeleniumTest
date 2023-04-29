@@ -1,5 +1,15 @@
 tags: #estudos/matemática 
 
+# Resumo
+- ==Pertinência==: quando um elemento pertence ou não a um conjunto. Ex. 10 $\in$ A.
+- Podem ser decritos através de diagrama ou chaves, quando em chaves, também há a possibilidade de descrição por proriedade. Ex. Impares = {x | x não é divisível por 2}.
+- Um ==conjunto pode ser==: untário (um só elemento), vazio (nenhum elemento), iguais (mesmos elementos) e universo (todos os elementos).
+- Um conjunto A é ==subconjunto== de um conjunto B se todo elemento de A é também elemento de B. Ex. $\begin{cases}A = \{a, b\}\\B = \{a, b, c\} \end{cases}$ Logo, A $\subset$ B, ou A está contido em B. Dada propriedade: A $\subset$ B = B $\supset$ A.
+- O ==número de subconjuntos totais== de um subconjunto, é a quantiade de elementos em um conjunto na potência, ou seja, número de subconjuntos de A é $A^n$. Ex. A = {1, 2}, logo, A² = 4, então, P(A) = {{1}, {2}, {1, 2}, {}}.
+- A ==união== é: A U B = {x | x $\in$ A ou x $\in$ B}. Ex. $\begin{cases}A = \{a, b, c\}\\B = \{c, d\} \end{cases}$ Logo, A U B = {a, b, c, d}. É comutativa e associativa.
+- A ==intersecção== é : A $\cap$ B = {x | x $\in$ A e x $\in$ B}. Ex. $\begin{cases}A = \{a, b, c\}\\B = \{c, d\} \end{cases}$ Logo, A $\cap$ B = {c}. É comutativa e associativa. Há também uma ==fórmula para descobrir o número de elementos de uma intersecção==: n(A U B) = n(A) + n(B) - n(A $\cap$ B). Ex. $\begin{cases}A = \{1, 3, 5, 7, 9\}\\B = \{2, 3, 5, 7\} \end{cases}$ Logo, de acordo com a fórmula, 6 = 5 + 4 - 3 =, 6 = 6.
+- A ==diferença== é dada por: A - B = {x | x $\in$ A e x $\notin$ B}. Ex. $\begin{cases}A = \{1, 2, 3, 4\}\\B = \{2, 4, 5\} \end{cases}$ Logo, A - B = {1, 3}.
+
 # Introdução
 1. Na teoria dos conjuntos três noções são aceitas sem definição:
 	- a) conjunto;
@@ -154,7 +164,7 @@ $$Pertinência \begin{cases}1 \in a \\5 \notin b \end{cases}$$
 
 # Complementar de B em A
 1. Dados dois conjuntos A e B, tais que B $\subset$ A, chama-se **complementar de B em relação a A** o conjunto A - B
-	- $\complement_{A}^B$ = A - B (B $\subset$ A)
+	- $\complement_{A}^B$ = A - B if (B $\subset$ A)
 	- Exemplos:
 		- A = {0, 2, 4, 6, 8}
 		- B = {0, 4, 8}

@@ -1,4 +1,4 @@
-tags: #produtividade
+tags: #produtividade #importante 
 status: #zettel/fleeting
 
 - Programação

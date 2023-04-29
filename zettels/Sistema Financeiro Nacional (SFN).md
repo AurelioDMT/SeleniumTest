@@ -3,9 +3,9 @@ site oficial: https://www.gov.br/investidor/pt-br/investir/como-investir/conheca
 
 - O **Sistema Financeiro Nacional** do Brasil é formado por um cojunto de instituições, financeiras ou não, voltadas para a gestão da política monetária do governo federal.
 
-- Dentre as funções do Sistema Financeiro Nacional, destacam-se a da: ^0b9056
+- Dentre as funções do Sistema Financeiro Nacional, destacam-se a da:
 	1. Intermediação Financeira e;
-	2. Pretação de serviços de Gerenciamento de recursos.
+	2. Prestação de serviços de Gerenciamento de recursos.
 
 - Em relação à *prestação de serviços de gerenciamento de recursos*, está faz às facilidades que estão dispostas aos cidadãos graças à atuação das entidades que compõe o Sistema Financeiro Nacional, tais como Instituições Financeiras (IF's): ^075a53
 	- Da existência de um sistema de pagamentos para transferência de recursos e arrecadação de **tributos**;
