@@ -4,50 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8a74ca7242576dd0",
+        "id": "a8178cb1dfba7c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c4e620210824fc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "zettels/Backend roadmap.canvas",
-                "viewState": {
-                  "x": 8.50258748231601,
-                  "y": 37.45876585928487,
-                  "zoom": -0.2994562776025899
-                }
-              }
-            }
-          },
-          {
-            "id": "504018690e171e09",
+            "id": "802c1f94dda8885f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/CSS.md",
+                "file": "zettels/Dicas javascript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d1482f752cb3a693",
+            "id": "8065c79129fc8f7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/HTML.md",
+                "file": "zettels/Questões (javascript).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "991c235457670928",
+            "id": "4a6d47b287df567a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,24 +44,12 @@
             }
           },
           {
-            "id": "9cb4c1066ec2f866",
+            "id": "4865d729c410da6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Metas da programação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0de231866354e96d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Palavras e seus significados.md",
+                "file": "zettels/Questões (python).md",
                 "mode": "source",
                 "source": false
               }
@@ -112,29 +85,41 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#importante",
+                "query": "tag:#activereacall",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "330bdfbf38998bc7",
+            "id": "641c9213991d00a5",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bfe57e9b2dad9419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettels/Ideias geniais when im high asf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "20a61bb452eb6f85",
@@ -161,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Questões (programação).md",
+                "file": "zettels/Questões (python).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Questões (programação).md",
+                "file": "zettels/Questões (python).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Questões (programação).md"
+                "file": "zettels/Questões (python).md"
               }
             }
           },
@@ -202,7 +187,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -219,35 +205,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "991c235457670928",
+  "active": "4865d729c410da6d",
   "lastOpenFiles": [
-    "zettels/Metas da programação.md",
-    "zettels/Palavras e seus significados.md",
-    "zettels/Rock.md",
-    "zettels/Rammstein.md",
-    "zettels/Por onde vou basear meus estudos.md",
-    "zettels/Minha biblioteca de programação.md",
     "zettels/Questões (programação).md",
-    "zettels/Artes liberais.md",
-    "zettels/Resumindo o livro Como Ler Livros por capítulo.md",
-    "zettels/Lista de assuntos que tenho interesse.md",
-    "zettels/Dicas do curso de python.md",
-    "zettels/Estudo matemática.md",
-    "zettels/Trabalho matemática.md",
-    "zettels/Notas Gramática Metódica da Língua Portuguesa.md",
-    "zettels/Como fazer resumos.md",
-    "zettels/Estudo língua portuguesa.md",
-    "zettels/Trabalho língua portuguesa.md",
+    "zettels/Questões (python).md",
+    "templates/mini_template_curso.md",
+    "zettels/Questões (javascript).md",
+    "zettels/Questões (atualidades do mercado financeiro).md",
+    "zettels/Ideias geniais when im high asf.md",
+    "zettels/Liu.designspace.md",
+    "zettels/Untitled.md",
+    "links nada ave.md",
+    "zettels/Dicas javascript.md",
+    "1529100612453266.pdf",
+    "31611263538139 (1).pdf",
+    "zettels/Design.md",
+    "zettels/DaVinci Resolve.md",
+    "zettels/(Missão) Ganhar dinheiro na internet.md",
+    "zettels/Por onde vou basear meus estudos.md",
+    "diario/2023-05-16.md",
+    "zettels/Dados.md",
+    "zettels/Desafios (programação).md",
+    "zettels/Metas da programação.md",
+    "zettels/Backend roadmap.canvas",
+    "diario/2023-05-15.md",
     "zettels/Questões (conhecimentos bancários).md",
     "zettels/Estudo conhecimentos bancários.md",
-    "zettels/Trabalho conhecimentos bancários.md",
-    "zettels/Planejamento de estudos do concurso Banco do Brasil 2023.md",
-    "zettels/HTML.md",
-    "zettels/CSS.md",
-    "zettels/Backend roadmap.canvas",
-    "links nada ave.md",
-    "README.md",
-    "diario/2023-04-26.md",
+    "zettels/Sistema Financeiro Nacional (SFN).md",
+    "diario/2023-05-14.md",
+    "zettels/q.md",
+    "zettels/Minha biblioteca de programação.md",
+    "zettels/Métodos de estudo.md",
+    "arquivos/Diagrama exemplo.png",
     "arquivos/Pasted image 20230419013026.png",
     "arquivos/Pasted image 20230419012206.png",
     "arquivos/Pasted image 20230419011004.png",
@@ -256,7 +245,6 @@
     "arquivos/Pasted image 20230415223220.png",
     "arquivos/Pasted image 20230415223201.png",
     "arquivos/Pasted image 20230415223147.png",
-    "arquivos/Pasted image 20230415223121.png",
-    "arquivos/Pasted image 20230415223040.png"
+    "arquivos/Pasted image 20230415223121.png"
   ]
 }

@@ -1,3 +1,5 @@
+tags: #estudos/economia #activereacall
+
 # 1 - SFN
 1. O que é um sistema?
 	- É uma estrutura que funciona por meio de computadores e redes.
@@ -9,7 +11,7 @@
 3. Quais suas funções?
 	- Executar a intermediação financeira e a Prestação de serviços de Gerenciamento de recursos.
 4. Há diferença de captação de juros de bancos para os agentes superavitário e deficitário?
-	- Sim, como o agente deficitário que empresta dinheiro do banco, esse juros podem ser altíssimos. Logo, o agente superavitário — que empres seu dinheiro ao banco, normalmente recebe o juros da Selic, que pode variar de acordo com a situaçao econômica do país. Essa diferença essa chamada de spread bancário.
+	- Sim, como o agente deficitário que empresta dinheiro do banco, esse juros podem ser altíssimos. Logo, o agente superavitário — que empresta seu dinheiro ao banco, normalmente recebe o juros da Selic, que pode variar de acordo com a situaçao econômica do país. Essa diferença é chamada de spread bancário.
 5. Qual a composição do SFN (órgão máximo, normativo e supervisores)?
 	- Órgãos normativos: CMN (órgão máximo), CNSP, CNPC;
 	- Órgãos supervisores: BCB, CVM, Previc, Susep. 

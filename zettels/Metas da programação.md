@@ -1,10 +1,15 @@
-tags: #programação
+tags: #programação #importante 
 status: #zettel/fleeting
+
+# Profissional
+- Melhorar meus perfis do [github](https://github.com/Luiz0311) e do [linkedin](https://www.linkedin.com/in/luiz-henrique-diogo-teixeira-4ab98a240/).
 
 # Sistemas operacionais (Operation System — OS)
 - [ ] Ler [Sistemas Operacionais Modernos](https://www.skoob.com.br/livro/18657ED104675) — Fundamental.
-- [ ] Instalar Ubunto em forma de Dual Boot.
+	- [[Notas Sistemas Operacionais Modernos]]
+- [x] Instalar Ubunto em forma de Dual Boot.
 - [ ] Instalar Archlinux.
+- [ ] Instalar o Manjaro.
 - [ ] Instalar Slackware.
 - [ ] Instalar Gentoo.
 

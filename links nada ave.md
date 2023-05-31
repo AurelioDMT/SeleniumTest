@@ -40,3 +40,16 @@ Steady gunnin, keep on bustin at them fools, you know the rules
 # Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJtk1QABbHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# espote
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2v74ik56b9FHNwdhoAEVOd?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr>
+<div style="display: flex; align-items: center;">
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1B5N4Uv5ueJw5rbiga5asV?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2JfGAlx3wdneuCBuvNwcZq?si=11aacb2a5bb34e44?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+<hr>
+<div style="display: flex; align-items: center;">
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3P4Vcz7MhJngRf8WUAaoA0?utm_source=generator&theme=0" width="33.3%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IZHpZCVn1GnoPlODpsfmx?utm_source=generator&theme=0" width="33.3%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2X2bfKr15Pnh6q8Fsmu9Qa?utm_source=generator&theme=0" width="33.3%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>

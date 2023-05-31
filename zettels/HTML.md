@@ -73,44 +73,9 @@ status: #zettel/fleeting
 <h1 id="id">...</h1>
 ```
 
-# Tags
-## Para texto
-- Tags para texto, ou seja, é permitido colocar todos esses dentro de um parágrafo — `<p>`. Tudo que tiver um display block, não é permitido estar dentro de um parágrafo.
-
-### b e strong, i e em
-- Embora as tags `<b>` e `<strong>` façam a mesma coisa — deixar o texto em negrito —, há uma diferença semântica entre elas. A tag `<b>` apenas deixa o texto em negrito. Já a tag `<strong>` serve semanticamente para evidenciar algo mais forte. Logo, quando há um leitor de tela lendo seu texto, a palavra com essa tag será interpretada com grande importância. O mesmo ocorre com a tag `<i>` — que deixa em itálico e a tag `<em>` — que serve para deixar algo em evidência.
-
-### a e img
-- Como dito antes na introdução, a tag `<a>` junto ao atributo "href" serve para você colocar um link de um arquivo ou de um site. A tag `<img>` é uma tag vazia para colocar imagens, junto com os atributos "src" para o caminho da imagem e "alt" para a descrição da imagem.
-
-### del e ins, s e u
-- Caso queria fazer uma errata semanticamente, é possível colocar a tag `<del>` — que vai riscar o texto e a tag `<ins>` — de inserir, para sublinhar o texto. Ou seja, você deleta um texto e insere outro. Há tags genéricas como `<s>` — risca o texto e `<u>` — underline, sendo tags físicas, ou seja, não semânticas.
-
-### small, sup e sub
-- A tag `<small>` serve para diminuir o texto. A tag `<sup>` serve como uma potenciação. Ex. $2^2$. E a tag `<sub>` como um número abaixo. Ex. $H_2O$.
-
-### br
-- A tag vazia `<br>` simplesmente quebra a linha.
-
-### q
-- A tag `<q>` — "quote" ou citação em português, serve exatamente para isso. É possível usar o atributo "cite" para referenciar de onde venho a citação.
-
-### span
-- A tag `<span>` é genérica e serve para colocar algum atributo em uma parte do texto. Não faz nada sozinha.
-
-## code e pre
-- A tag `<code>` serve para citar códigos, aplicando uma fonte monospace — pode ir em parágrafo. Para respeitar as linhas de código, ou seja, um texto pré-formatado, usa-se a tag `<pre>`, assim respeitando todas as linhas — não pode ir em parágrafo.
-
-## hr
-- Serve como um bloco e um separador, pois aplica uma linha vertical.
-
-## div
-- A tag `<div>` é genérica e serve para colocar um bloco.
-
 # References
 - MDN
-	- Tags
-		- https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
+	- [Tags HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 	- https://developer.mozilla.org/pt-BR/docs/Learn 💡
 	- https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics
 	- https://developer.mozilla.org/pt-BR/docs/Web/Accessibility

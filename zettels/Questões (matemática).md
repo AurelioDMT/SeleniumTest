@@ -1,3 +1,5 @@
+tags: #estudos/matemática #activereacall
+
 # Procurar exercícios sobre
 1. Conjuntos
 2. Sistema Métrico Decimal — conversões

@@ -1,3 +1,5 @@
+tags: #estudos/economia #activereacall
+
 # 1. Os bancos na Era Digital, Internet Banking e Mobile Banking
 1. Quais os acontecimentos na era digital entre 1945-1983?
 2. Quais os acontecimentos na era digital entre 1988-2002?

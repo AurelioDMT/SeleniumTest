@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "zettels",
   "attachmentFolderPath": "arquivos",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }

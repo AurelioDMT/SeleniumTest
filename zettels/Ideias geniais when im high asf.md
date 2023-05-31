@@ -1,0 +1,1 @@
+- Fazer uma lista genérica de perguntas para a introdução a alguma linguagem de programação. 

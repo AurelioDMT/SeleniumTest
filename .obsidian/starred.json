@@ -39,6 +39,11 @@
       "type": "search",
       "title": "tag:#importante",
       "query": "tag:#importante"
+    },
+    {
+      "type": "file",
+      "title": "Ideias sites",
+      "path": "zettels/Ideias sites.md"
     }
   ]
 }

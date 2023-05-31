@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1683277854001,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1683525206671,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1683525283296,
+              "path": "zettels/Dicas javascript.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1683547651557,
+              "path": "zettels/Questões (javascript).md"
+            }
+          ],
+          "title": "JS"
+        },
+        {
+          "type": "file",
+          "path": "zettels/Questões (programação).md",
+          "ctime": 1683160608077
+        },
+        {
+          "type": "file",
+          "path": "zettels/Dicas python.md",
+          "ctime": 1683160608077
+        },
+        {
+          "type": "file",
+          "path": "zettels/Minha biblioteca de programação.md",
+          "ctime": 1683160608077
+        },
+        {
+          "type": "file",
+          "path": "zettels/Metas da programação.md",
+          "ctime": 1683160608077
+        },
+        {
+          "type": "file",
+          "ctime": 1683525250699,
+          "path": "zettels/Desafios (programação).md"
+        },
+        {
+          "type": "file",
+          "path": "zettels/Backend roadmap.canvas",
+          "ctime": 1683160608077
+        }
+      ],
+      "title": "Programação"
+    },
+    {
+      "type": "file",
+      "path": "zettels/Por onde vou basear meus estudos.md",
+      "ctime": 1683160608077
+    },
+    {
+      "type": "file",
+      "path": "zettels/Resumindo o livro Como Ler Livros por capítulo.md",
+      "ctime": 1683160608077
+    },
+    {
+      "type": "search",
+      "title": "tag:#importante",
+      "query": "tag:#importante",
+      "ctime": 1683160608077
+    },
+    {
+      "type": "search",
+      "ctime": 1683492763205,
+      "query": "tag:#activereacall",
+      "title": "aprendizado ativo"
+    },
+    {
+      "type": "file",
+      "path": "zettels/Ideias sites.md",
+      "ctime": 1683160608077
+    },
+    {
+      "type": "file",
+      "ctime": 1683720384305,
+      "path": "zettels/Métodos de estudo.md"
+    }
+  ]
+}
